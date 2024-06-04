@@ -11,13 +11,22 @@ The Aristotle Digital Immortality Chatbot is designed to simulate conversations 
 ## Project Structure
 
 Aristotle/
-│
-├── data/ # Dataset files
-├── models/ # Trained models
-├── src/ # Source code for training and interfacing
-└── notebooks/ # Jupyter notebooks for experiments
+├── data/
+│ ├── ... # Dataset files
+├── models/
+│ ├── README_models.md # Placeholder for trained models
+├── notebooks/
+│ ├── ... # Jupyter notebooks for experiments and explorations
+├── src/
+│ ├── extract_text.py
+│ ├── fine_tune.py
+│ ├── monitor.py
+│ ├── generate_completion.py
+│ ├── upload_dataset.py
+│ ├── test1.py
+│ ├── test2.py
+└── processed_aristotle_texts.json
 
-markdown Copy code
 
 ## Getting Started
 
