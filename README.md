@@ -14,9 +14,9 @@ Aristotle/
 ├── data/
 │ ├── ... # Dataset files
 ├── models/
-│ ├── README_models.md # Placeholder for trained models
+│ ├── README_models.md 
 ├── notebooks/
-│ ├── ... # Jupyter notebooks for experiments and explorations
+│ ├── ... # Jupyter notebooks 
 ├── src/
 │ ├── extract_text.py
 │ ├── fine_tune.py
